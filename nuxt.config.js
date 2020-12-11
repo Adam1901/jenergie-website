@@ -9,8 +9,8 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    titleTemplate: '%s - jenergie',
-    title: 'jenergie',
+    titleTemplate: '%s',
+    title: 'JENERGIE',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -56,7 +56,15 @@ export default {
           warning: colors.amber.base,
           error: colors.deepOrange.accent4,
           success: colors.green.accent3
-        }
+        },
+        light: {
+          primary: colors.purple,
+          secondary: colors.grey.darken1,
+          accent: colors.shades.black,
+          error: colors.red.accent3,
+          background: colors.indigo.lighten5,
+        },
+
       }
     }
   },

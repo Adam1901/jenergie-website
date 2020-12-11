@@ -1,4 +1,8 @@
-# jenergie
+# Jenergie
+
+Built by Adam Meadows
+
+Work in progress
 
 ## Build Setup
 
