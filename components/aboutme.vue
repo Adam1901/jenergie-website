@@ -1,7 +1,6 @@
 <template>
   <div>
     <v-card>
-
       <v-card-text>
         <v-row>
           <v-col sm="3">
@@ -23,7 +22,7 @@
           </v-col>
         </v-row>
       </v-card-text>
-    </v-card>s
+    </v-card>
   </div>
 </template>
 
