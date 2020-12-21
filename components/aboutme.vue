@@ -8,8 +8,9 @@
           </v-col>
           <v-col>
             <h1>About me</h1>
-            <p>blah blah</p>
-            <p>blah blah</p>
+            <p> Hi, my name is Jenni, I have become a personal trainer to help other people reach their goal.<br>
+            I want to help show you that you can find the love for yourself that I fully believe everyone deserves.</p>
+            <p> ... </p>
 
             <h2>Who am I</h2>
             <p>blah</p>

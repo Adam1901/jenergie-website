@@ -40,6 +40,7 @@ export default {
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
+    'vue-scrollto/nuxt',
   ],
 
   // Vuetify module configuration (https://go.nuxtjs.dev/config-vuetify)
