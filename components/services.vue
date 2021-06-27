@@ -8,19 +8,42 @@
       <p>
         The aim of a range of services are to cover many variety of activities you may want to cover. <br>
         I will always continue my training, enabling there to be more services offered.<br>
-        You can have sessions as an individual or as a couple. Your couple doesnt just have to be your husband/ wife or partner it can be your friend, sister, brother, sons or daughters.<br>
-        It could even be Bob your next door neighbour!
+        You can have sessions as an individual or as a couple. Your couple doesnt just have to be your husband/ wife or
+        partner it can be your friend, sister, brother, sons or daughters.<br>
+        It could even be Bob your next door neighbour!<br>
+        The Services offered range between 30 minutes to 1 hour sessions.
       </p>
 
+      <v-simple-table>
+        <tbody>
+        <tr>
+          <th><h3>Individuals</h3></th>
+          <th><h3>Couples</h3></th>
+        </tr>
+        <tr>
+          <td>Personal Training</td>
+          <td>Personal Training</td>
+        </tr>
+        <tr>
+          <td>Stretching and flexibility</td>
+          <td>Stretching and flexibility</td>
+        </tr>
+        <tr>
+          <td>Workout plan</td>
+          <td>Workout plan</td>
+        </tr>
+        <tr>
+          <td>Online coaching</td>
+          <td></td>
+        </tr>
+        </tbody>
+      </v-simple-table>
+
+
+      <p style="padding-top: 40px">
+      <h3>Coming soon</h3></p>
       <ul>
-        <li>1 Hr personal training session (individual)</li>
-        <li>30 minutes training session (individual)</li>
-        <li>1 Hr personal training session (Couples)</li>
-        <li>30 minutes training session (Couples)</li>
-        <li>Nutrition plan</li>
-        <li>Homework out plan (no sessions)</li>
-        <li>45 minutes Stretching session (individual)</li>
-        <li>45 minutes stretching session (couples)</li>
+        <li>Nutrition plans</li>
       </ul>
     </v-card-text>
     <v-card-actions>
