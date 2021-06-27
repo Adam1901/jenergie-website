@@ -14,7 +14,7 @@
     </v-navigation-drawer>
     <v-app-bar :clipped-left="clipped" fixed app>
       <v-app-bar-nav-icon @click.stop="drawer = !drawer"/>
-      <v-toolbar-title v-text="title"/>
+      <img class="mr-3" src="/jenergie-logo.svg" height="40" alt="Jenergie Logo"/>
       <v-spacer/>
       <v-switch v-model="$vuetify.theme.dark" label="Dark mode"></v-switch>
     </v-app-bar>
