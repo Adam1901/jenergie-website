@@ -17,15 +17,15 @@
           </tr>
           <tr>
             <td>Personal Training</td>
-            <td>£25</td>
             <td> - </td>
-            <td>£45</td>
+            <td> - </td>
+            <td> - </td>
             <td> - </td>
           </tr>
           <tr>
             <td>Stretching and flexibiltiy </td>
             <td>-</td>
-            <td>£30</td>
+            <td> - </td>
             <td>-</td>
             <td>-</td>
           </tr>
@@ -34,14 +34,14 @@
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>£60</td>
+            <td> - </td>
           </tr>
           <tr>
             <td>Online coaching</td>
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>£100</td>
+            <td> - </td>
           </tr>
           </tbody>
         </v-simple-table>
@@ -57,15 +57,15 @@
           </tr>
           <tr>
             <td>Personal Training</td>
-            <td>£40</td>
             <td> - </td>
-            <td>£60</td>
+            <td> - </td>
+            <td> - </td>
             <td> - </td>
           </tr>
           <tr>
             <td>Stretching and flexibiltiy </td>
             <td>-</td>
-            <td>£40</td>
+            <td>-</td>
             <td>-</td>
             <td>-</td>
           </tr>
@@ -74,7 +74,7 @@
             <td>-</td>
             <td>-</td>
             <td>-</td>
-            <td>£60</td>
+            <td>-</td>
           </tr>
           <tr>
             <td>Online coaching</td>
