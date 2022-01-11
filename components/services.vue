@@ -25,12 +25,7 @@
           <td>Personal Training</td>
         </tr>
         <tr>
-          <td>Stretching and flexibility</td>
-          <td>Stretching and flexibility</td>
-        </tr>
-        <tr>
-          <td>Workout plan</td>
-          <td>Workout plan</td>
+          <td>Workout Plan</td>
         </tr>
         <tr>
           <td>Online coaching</td>
@@ -40,10 +35,9 @@
       </v-simple-table>
 
 
-      <p style="padding-top: 40px">
-      <h3>Coming soon</h3></p>
+      <h3 style="padding-top: 40px">Coming soon</h3>
       <ul>
-        <li>Nutrition plans</li>
+        <li>Nutrition plan</li>
       </ul>
     </v-card-text>
     <v-card-actions>
