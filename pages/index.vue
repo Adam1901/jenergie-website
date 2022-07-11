@@ -9,7 +9,7 @@
           <v-card-title class="headline">
             Welcome to Jenergie
           </v-card-title>
-          <v-card-text>
+          <v-card-text v-if="false">
             <sliders></sliders>
           </v-card-text>
         </v-card>
@@ -25,12 +25,12 @@
         <services></services>
       </v-col>
     </v-row>
-    <v-row>
+    <v-row v-if="false">
       <v-col>
         <gallery></gallery>
       </v-col>
     </v-row>
-    <v-row>
+    <v-row v-if="false">
       <v-col>
         <testimonals></testimonals>
       </v-col>
