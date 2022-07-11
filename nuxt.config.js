@@ -23,7 +23,7 @@ export default {
     script: [
       {
         hid: 'gtm-script1',
-        src: 'https://www.googletagmanager.com/gtag/js?id=G-76XL6PXQML',
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-K830Z8Z25Q',
         defer: true
       },
       {
