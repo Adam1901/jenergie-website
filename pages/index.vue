@@ -9,9 +9,7 @@
           <v-card-title class="headline">
             Welcome to Jenergie
           </v-card-title>
-          <v-card-text v-if="false">
-            <sliders></sliders>
-          </v-card-text>
+
         </v-card>
       </v-col>
     </v-row>
