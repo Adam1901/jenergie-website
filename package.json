@@ -3,18 +3,17 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "nuxt dev",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
-    "nuxt": "^2.14.6",
-    "vue-scrollto": "^2.20.0"
+    "mdi": "^2.2.43",
+    "sass": "^1.54.0",
+    "vuetify": "^3.0.0-beta.5"
   },
   "devDependencies": {
-    "@nuxt/types": "~2.14.0",
-    "@nuxtjs/vuetify": "^1.11.2"
+    "nuxt": "3.0.0-rc.6"
   }
 }

@@ -52,8 +52,8 @@
 import Logo from '~/components/Logo.vue'
 import VuetifyLogo from '~/components/VuetifyLogo.vue'
 import Aboutme from "~/components/aboutme.vue";
-import Services from "@/components/services";
-import Gallery from "@/components/gallery";
+import Services from "~/components/services";
+import Gallery from "~/components/gallery";
 
 export default {
   components: {

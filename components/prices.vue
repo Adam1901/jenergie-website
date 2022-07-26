@@ -6,7 +6,7 @@
       </v-card-title>
       <v-card-text>
 
-        <v-simple-table>
+        <v-table>
           <tbody>
           <tr>
             <th><h3>Individuals</h3></th>
@@ -37,9 +37,9 @@
             <td> £100 p/m</td>
           </tr>
           </tbody>
-        </v-simple-table>
+        </v-table>
 
-        <v-simple-table style="padding-top:40px">
+        <v-table style="padding-top:40px">
           <tbody>
           <tr>
             <th><h3>Couples</h3></th>
@@ -56,7 +56,7 @@
             <td> -</td>
           </tr>
           </tbody>
-        </v-simple-table>
+        </v-table>
 
       </v-card-text>
     </v-card>

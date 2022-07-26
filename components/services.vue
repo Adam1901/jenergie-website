@@ -14,7 +14,7 @@
         The Services offered range between 30 minutes to 1 hour sessions.
       </p>
 
-      <v-simple-table>
+      <v-table>
         <tbody>
         <tr>
           <th><h3>Individuals</h3></th>
@@ -32,7 +32,7 @@
           <td></td>
         </tr>
         </tbody>
-      </v-simple-table>
+      </v-table>
 
 
       <h3 style="padding-top: 40px">Coming soon</h3>
@@ -42,7 +42,7 @@
     </v-card-text>
     <v-card-actions>
       <v-col>
-        <v-btn v-scroll-to="'#prices'">Prices</v-btn>
+        <v-btn>Prices</v-btn>
       </v-col>
     </v-card-actions>
   </v-card>

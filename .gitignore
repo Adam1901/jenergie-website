@@ -88,3 +88,11 @@ sw.*
 
 # Vim swap files
 *.swp
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
