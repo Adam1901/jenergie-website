@@ -4,7 +4,7 @@
       <img class="mr-3" src="/jenergie-logo.svg" height="40" alt="Jenergie Logo"/>
     </v-app-bar>
     <v-main>
-      <v-container>
+      <v-container fluid>
         <slot/>
       </v-container>
     </v-main>
@@ -18,8 +18,17 @@
 <script setup>
 
 </script>
-<style scoped>
+
+<style>
 .nav-item {
   padding-right: 10px;
+}
+
+.v-application p {
+  margin-bottom: 16px;
+}
+
+.v-card-title headline {
+  font-size: 24px;
 }
 </style>

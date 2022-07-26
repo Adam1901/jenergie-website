@@ -35,16 +35,8 @@
       </v-table>
 
 
-      <h3 style="padding-top: 40px">Coming soon</h3>
-      <ul>
-        <li>Nutrition plan</li>
-      </ul>
+      <h3 style="padding-top: 40px">Nutrition plan coming soon</h3>
     </v-card-text>
-    <v-card-actions>
-      <v-col>
-        <v-btn>Prices</v-btn>
-      </v-col>
-    </v-card-actions>
   </v-card>
 </template>
 
@@ -55,5 +47,9 @@ export default {
 </script>
 
 <style scoped>
+
+li {
+  padding-left: 10px;
+}
 
 </style>

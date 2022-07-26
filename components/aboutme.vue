@@ -1,13 +1,10 @@
 <template>
   <div>
     <v-card>
+      <v-card-title>About me</v-card-title>
       <v-card-text>
         <v-row align="center">
-          <v-col sm="3">
-            <v-img src="/personal-picture.png"></v-img>
-          </v-col>
-          <v-col class="">
-            <h1>About me</h1>
+          <v-col>
             <p> Hi, my name is Jenni, I have become a personal trainer to help other people reach their goal.<br>
               I want to help show you that you can find the love for yourself that I fully believe everyone deserves.
             </p>
@@ -22,6 +19,10 @@
               The most important thing to remember is to always be your own person and love who you are or try, it
               doesnt matter
               if there are things you would want to change or improve, you are still you. </p>
+          </v-col>
+
+          <v-col sm="3">
+            <v-img src="/personal-picture.png"></v-img>
           </v-col>
 
         </v-row>
